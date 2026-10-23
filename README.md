@@ -9,10 +9,10 @@ A free handwriting note-taking app for iPad and iPhone, built with SwiftUI and P
   </a>
 </p>
 
-Tap the button on your iPad. It opens the install page, where you tap **Install with SideStore** or **Install with AltStore**. That app signs Free Notes with your Apple ID and installs it.
+Tap the button on your iPad. It opens the install page, where you tap the install button. Your app signing software then signs Free Notes with your Apple ID and installs it.
 
-**You need:** [SideStore](https://sidestore.io) or [AltStore](https://altstore.io) already set up on your device.
+**Your device needs:** app signing software already set up on it.
 
 **Good to know:** apps installed with a free Apple ID expire after 7 days and need refreshing.
 
-Prefer a file? Download [FreeNotes.ipa](https://raw.githubusercontent.com/Flashslade8/FreeNotes-IPA/main/FreeNotes.ipa) and install it with Sideloadly.
+Prefer a file? Download [FreeNotes.ipa](https://raw.githubusercontent.com/Flashslade8/FreeNotes-IPA/main/FreeNotes.ipa) and install it with your app signing software.

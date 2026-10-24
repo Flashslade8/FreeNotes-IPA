@@ -15,4 +15,4 @@ Tap the button on your iPad. It opens the install page, where you tap the instal
 
 **Good to know:** apps installed with a free Apple ID expire after 7 days and need refreshing.
 
-Prefer a file? Download [FreeNotes.ipa](https://raw.githubusercontent.com/Flashslade8/FreeNotes-IPA/main/FreeNotes.ipa) and install it with your app signing software.
+Prefer a file? Download [[FreeNotes.ipa](https://raw.githubusercontent.com/Flashslade8/FreeNotes-IPA/main/FreeNotes.ipa](https://github.com/Flashslade8/FreeNotes-IPA/raw/refs/heads/main/FreeNotes.ipa)) and install it with your app signing software.
